@@ -1,0 +1,72 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+.asd{
+    background-color: dodgerblue;
+    color: white;
+    
+}
+.btn1{
+    background-color: lightgray;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+.flex-container > div {
+    width: 70%;
+    color: whitesmoke;
+    background-color: DodgerBlue;
+    padding: 6px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.asd1{
+    font-size: 37px;
+    font-weight: bold;
+}
+.asd2{
+    background-color: #1E6AF9;
+    color: ivory;
+}
+.asd3{
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+.asd4{
+    font-size: 11px;
+}
+.asd5{
+    font-size: 18px;
+    padding: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-around; 
+  }
+  
+.flex1 > div {
+    width: 100%;
+    background-color: white;       
+}
+.img1 {
+    margin-top: 80px;
+}
+.asd6{
+    font-size: 14px;
+}
+.icon-background1 {
+    color: #1E6AF9;
+}
+.asd7 {
+    color: white;
+    background-color: #1E6AF9;
+    font-size: 11px;
+    padding: 20px 20px 12px 100px;
+}
